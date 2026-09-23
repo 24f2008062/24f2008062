@@ -1,18 +1,46 @@
+# Sanidhya Srivastava
+
+Full-Stack Software Engineer & UI/UX Designer specializing in building scalable web applications, interactive AI tools, and sleek developer interfaces.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhya-srivastava-403442300)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/sanidhysriofc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sanidhy.exe/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/YAJP5KGM)
+
+---
+
+## ⚡ Overview
+
+- **Focus**: Building production-grade apps with Next.js 15, TypeScript, Tailwind CSS, and Python.
+- **Roles**: Core UI/UX Team Member at Google Developer Groups (GDG) On-Campus.
+- **Projects**:
+  - **VORT-X**: Full-stack gaming & community platform with real-time match scheduling.
+  - **AlgoMaster AI**: Interactive Data Structures & Algorithms sandbox with in-browser execution via Pyodide and context-aware Gemini AI hints.
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | Next.js 15, React, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend & DB** | Node.js, Express, PostgreSQL, Firebase Genkit, Supabase |
+| **AI & Languages** | Python, JavaScript, Scikit-learn, C++ |
+| **Tools & Environments** | Figma, Git, GitHub Actions, Linux, Windows 11, VS Code |
+
+---
+
+## 📊 GitHub Analytics
+
+Auto-updating telemetry linked directly to live repository activity:
+
 <div align="center">
 
-# `// SANIDHYA_SRIVASTAVA`
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=24f2008062&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2008062&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=800&color=00FF41&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;UI%2FUX+Designer;AI+Systems+Enthusiast;GDG+On-Campus+UI%2FUX" alt="Terminal" />
-</a>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhya-srivastava-403442300)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sanidhysriofc)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YAJP5KGM)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2008062&theme=dark&hide_border=true" alt="Commit Streak" />
 
 </div>
-
-```terminal
-> USER     : 24f2008062
-> SPECS    : Next.js 15 | TypeScript | Python | AI Genkit
-> PROJECTS : VORT-X (Gaming Platform) | AlgoMaster AI (Interactive Execution Sandbox)
