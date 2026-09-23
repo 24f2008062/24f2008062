@@ -67,12 +67,12 @@ product   :: UX · RBAC · System Design · Product Strategy
 ## `> github_telemetry`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanidhyexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyexe&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=24f2008062&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=24f2008062&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyexe&bg_color=0D1117&color=C9D1D9&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24f2008062&bg_color=0D1117&color=C9D1D9&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ```text
