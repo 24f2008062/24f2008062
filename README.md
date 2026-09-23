@@ -40,15 +40,15 @@ Full-Stack Software Engineer & UI/UX Designer specializing in building scalable 
 
 ## 📊 GitHub Analytics
 
-Auto-updating telemetry linked directly to live repository activity:
-
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=24f2008062&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2008062&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<!-- Fast Stats Cards Endpoint -->
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=24f2008062&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=24f2008062&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=24f2008062&theme=dark&hide_border=true" alt="Commit Streak" />
+<!-- Active Streak Stats Endpoint -->
+<img src="https://streak-stats.demolab.com/?user=24f2008062&theme=dark&hide_border=true" alt="Commit Streak" />
 
 </div>
