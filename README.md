@@ -1,54 +1,99 @@
-# Sanidhya Srivastava
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=Sanidhya+Srivastava;Full-Stack+Engineer+%2F%2F+Product+Builder;Designing+products.+Shipping+systems." alt="Typing animation" />
+</h1>
 
-Full-Stack Software Engineer & UI/UX Designer specializing in building scalable web applications, interactive AI tools, and sleek developer interfaces.
+<p align="center">
+  <a href="https://sanidhy-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" />
+  </a>
+  <a href="https://linkedin.com/in/sanidhyasrivastava">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117" />
+  </a>
+  <a href="mailto:sanidhyasrivastava.dev@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" />
+  </a>
+</p>
 
-<div align="center">
+```text
+┌──(sanidhya㉿github)-[~/profile]
+└─$ whoami
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhya-srivastava-403442300)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sanidhysriofc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanidhy.exe/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YAJP5KGM)
+Full-stack engineer and product builder from India.
+I build high-signal web products—from product strategy and UX
+to backend architecture, authentication, and deployment.
+```
 
-</div>
+## `> current_status`
 
----
+```yaml
+role: Head of Product @ UnfusedZ
+focus:
+  - Next.js & React applications
+  - Python / Flask systems
+  - Product engineering & UX
+  - Interactive 3D web experiences
+learning:
+  - System Design
+  - Data Structures & Algorithms
+  - Open Source
+```
 
-## ⚡ Overview
+## `> featured_work`
 
-- **Focus**: Building production-grade apps with Next.js 15, TypeScript, Tailwind CSS, and Python[cite: 1].
-- **Roles**: Core UI/UX Team Member at Google Developer Groups (GDG) On-Campus[cite: 1].
-- **Projects**:
-  - **VORT-X**: Full-stack gaming & community platform with real-time match scheduling[cite: 1].
-  - **AlgoMaster AI**: Interactive Data Structures & Algorithms sandbox with in-browser execution via Pyodide and context-aware Gemini AI hints[cite: 1].
+### `01 // Uncooked`
 
----
+A full-stack event discovery and management platform built for users, organizers, and admins.
 
-## 🛠️ Tech Stack & Capabilities
+```text
+[✓] Authentication & role-based access
+[✓] Tiered ticketing and QR tickets
+[✓] Organizer dashboards & analytics
+[✓] Live event chat
+[✓] Coupons, waitlists & recommendations
+[✓] Production operations tooling
+```
 
-<div align="center">
+**Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Supabase` · `Tailwind CSS` · `Pusher`
 
-| Layer | Tools & Icons |
-| :--- | :--- |
-| **Frontend** | `<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" />` |
-| **Backend & DB** | `<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,supabase&theme=dark" />` |
-| **AI & Languages** | `<img src="https://skillicons.dev/icons?i=py,js,cpp,sklearn&theme=dark" />` |
-| **Tools & OS** | `<img src="https://skillicons.dev/icons?i=figma,git,githubactions,linux,windows,vscode&theme=dark" />` |
+### `02 // Trekking Management Application`
 
-</div>
+Role-based trekking and booking portal with `SUPER_ADMIN`, `ORGANIZER`, and `USER` workflows.
 
----
+**Stack:** `Python` · `Flask` · `SQLAlchemy` · `SQLite` · `Bootstrap` · `RBAC`
 
-## 📊 GitHub Analytics
+### `03 // VORT-X Spatial Engine`
 
-<div align="center">
+Interactive 3D web experience using spatial navigation, smooth motion, and optimized rendering.
 
-<!-- Fast Stats Cards Endpoint -->
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=24f2008062&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=24f2008062&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+**Stack:** `Next.js` · `React Three Fiber` · `Three.js` · `Zustand` · `Lenis`
 
-<br/><br/>
+## `> tech_stack`
 
-<!-- Active Streak Stats Endpoint -->
-<img src="https://streak-stats.demolab.com/?user=24f2008062&theme=dark&hide_border=true" alt="Commit Streak" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,flask,nodejs,postgres,prisma,supabase,tailwind,threejs,git,github,vercel,figma&perline=8" />
+</p>
 
-</div>
+```text
+frontend  :: Next.js · React · TypeScript · Tailwind · Three.js
+backend   :: Python · Flask · Node.js · REST APIs · Auth
+database  :: PostgreSQL · Prisma · Supabase · SQLite
+product   :: UX · RBAC · System Design · Product Strategy
+```
+
+## `> github_telemetry`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanidhyexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyexe&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyexe&bg_color=0D1117&color=C9D1D9&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+```text
+┌──(sanidhya㉿github)-[~/mission]
+└─$ echo "Build. Validate. Iterate. Ship."
+
+Build. Validate. Iterate. Ship.
+```
