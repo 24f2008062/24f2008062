@@ -23,20 +23,6 @@ I build high-signal web products—from product strategy and UX
 to backend architecture, authentication, and deployment.
 ```
 
-## `> current_status`
-
-```yaml
-role: Head of Product @ UnfusedZ
-focus:
-  - Python / Flask systems
-  - Product engineering & UX
-  - Interactive 3D web experiences
-learning:
-  - System Design
-  - Data Structures & Algorithms
-  - Open Source
-```
-
 ## `> featured_work`
 
 ### `01 // Uncooked`
