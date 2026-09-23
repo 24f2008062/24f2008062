@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://sanidhy-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=36&section=header&text=PORTFOLIO&fontColor=000000&fontSize=18&fontAlignY=52" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/sanidhyasrivastava">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=36&section=header&text=LINKEDIN&fontColor=000000&fontSize=18&fontAlignY=52" alt="LinkedIn" />
   </a>
   <a href="mailto:sanidhyasrivastava.dev@gmail.com">
-    <img src="https://img.shields.io/badge/CONTACT-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=36&section=header&text=CONTACT&fontColor=000000&fontSize=18&fontAlignY=52" alt="Email" />
   </a>
 </p>
 
