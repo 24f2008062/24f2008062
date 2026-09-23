@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/sanidhyasrivastava">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=36&section=header&text=LINKEDIN&fontColor=000000&fontSize=18&fontAlignY=52" alt="LinkedIn" />
   </a>
-  <a href="mailto:sanidhyasrivastava.dev@gmail.com">
+  <a href="mailto:sanidhyasrivastava01@gmail.com">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=36&section=header&text=CONTACT&fontColor=000000&fontSize=18&fontAlignY=52" alt="Email" />
   </a>
 </p>
