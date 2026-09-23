@@ -28,7 +28,6 @@ to backend architecture, authentication, and deployment.
 ```yaml
 role: Head of Product @ UnfusedZ
 focus:
-  - Next.js & React applications
   - Python / Flask systems
   - Product engineering & UX
   - Interactive 3D web experiences
@@ -53,7 +52,7 @@ A full-stack event discovery and management platform built for users, organizers
 [✓] Production operations tooling
 ```
 
-**Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Supabase` · `Tailwind CSS` · `Pusher`
+**Stack:** `PostgreSQL` · `Prisma` · `Supabase` · `Tailwind CSS` · `Pusher`
 
 ### `02 // Trekking Management Application`
 
@@ -65,16 +64,15 @@ Role-based trekking and booking portal with `SUPER_ADMIN`, `ORGANIZER`, and `USE
 
 Interactive 3D web experience using spatial navigation, smooth motion, and optimized rendering.
 
-**Stack:** `Next.js` · `React Three Fiber` · `Three.js` · `Zustand` · `Lenis`
+**Stack:** `React Three Fiber` · `Three.js` · `Zustand` · `Lenis`
 
 ## `> tech_stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,flask,nodejs,postgres,prisma,supabase,tailwind,threejs,git,github,vercel,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,postgres,prisma,supabase,tailwind,threejs,git,github,vercel,figma&perline=6" />
 </p>
 
 ```text
-frontend  :: Next.js · React · TypeScript · Tailwind · Three.js
 backend   :: Python · Flask · Node.js · REST APIs · Auth
 database  :: PostgreSQL · Prisma · Supabase · SQLite
 product   :: UX · RBAC · System Design · Product Strategy
