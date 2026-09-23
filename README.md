@@ -70,7 +70,7 @@ product   :: UX · RBAC · System Design · Product Strategy
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=24f2008062&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 </p>
 
-```
+```text
 [ SYSTEM NOTE ]
 GitHub’s native contribution graph is available directly on my profile.
 
